@@ -29,7 +29,7 @@ public class logintoonetmailDef {
 
     }
 
-    @When("^I press Poczta button")
+    @When("I press Poczta button")
     public void pressPocztaButton(String test) {
 
 

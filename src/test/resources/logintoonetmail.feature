@@ -5,7 +5,7 @@ Feature: Login to Onet mail box
   Scenario: Open login form
     Given  Onet page is opened
 
-    When ^DUpa press Poczta button
+    When I press Poczta button
     Then Page with login form is opened
 
 
